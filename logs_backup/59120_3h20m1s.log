@@ -1,0 +1,126 @@
+Creating script environments for _cfx_internal
+Found new resource webadmin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource monitor in /home/ogp_agent/OGP_User_Files/Randria5585fivem/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[managers]/spawnmanager
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[managers]/mapmanager
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/playernames
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/chat-theme-gtao
+Found new resource chat in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/chat
+Found new resource example-loadscreen in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/example-loadscreen
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/fivem
+Found new resource mysql-async in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/mysql-async
+Found new resource es_extended in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/es_extended
+Found new resource async in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/async
+Found new resource cron in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/cron
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/sessionmanager
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/hardcap
+Found new resource sessionmanager-rdr3 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/sessionmanager-rdr3
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/scoreboard
+Found new resource runcode in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/runcode
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/rconlog
+Found new resource redm-map-one in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource gcphone in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[gcphone]/gcphone
+Found new resource esx_menu_dialog in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_dialog
+Found new resource esx_menu_list in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_list
+Found new resource esx_menu_default in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_default
+Found new resource mythic_notify1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/mythic_notify1
+Found new resource tokovoip_script in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/tokovoip_script
+Found new resource ls-radio in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/ls-radio
+Found new resource esx_identity in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_identity
+Found new resource esx_society in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_society
+Found new resource esx_status in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_status
+Found new resource new_banking in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/new_banking
+Found new resource esx_billing in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_billing
+Found new resource esx_service in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_service
+Found new resource skinchanger in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/skinchanger
+Found new resource esx_addonaccount in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addonaccount
+Found new resource esx_datastore in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_datastore
+Found new resource esx_basicneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_basicneeds
+Found new resource esx_addoninventory in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addoninventory
+Found new resource esx_license in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_license
+Found new resource esx_skin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_skin
+Found new resource esx_optionalneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_optionalneeds
+Found new resource yarn in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/[builders]/yarn
+Found new resource webpack in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/[builders]/webpack
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for webadmin
+Instantiated instance of script FxWebAdmin.BaseServer.
+Instantiated instance of script FxWebAdmin.HttpServer+HttpServerScript.
+Started resource webadmin
+Argument count mismatch (passed 3, wanted 2)
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Started resource scoreboard
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for async
+Started resource async
+Creating script environments for es_extended
+Started resource es_extended
+Creating script environments for cron
+Started resource cron
+Started resource skinchanger
+Creating script environments for esx_skin
+Started resource esx_skin
+Creating script environments for esx_addonaccount
+Started resource esx_addonaccount
+Creating script environments for esx_addoninventory
+Started resource esx_addoninventory
+Creating script environments for esx_datastore
+Started resource esx_datastore
+Creating script environments for esx_license
+Started resource esx_license
+Creating script environments for esx_billing
+Started resource esx_billing
+Creating script environments for esx_identity
+Started resource esx_identity
+Creating script environments for esx_society
+Started resource esx_society
+Creating script environments for esx_service
+Started resource esx_service
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for esx_basicneeds
+Started resource esx_basicneeds
+Creating script environments for esx_optionalneeds
+Started resource esx_optionalneeds
+Stopping resource esx_status
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for new_banking
+Started resource new_banking
+Started resource esx_menu_default
+Started resource esx_menu_dialog
+Started resource esx_menu_list
+Creating script environments for gcphone
+Started resource gcphone
+Creating script environments for ls-radio
+Started resource ls-radio
+Creating script environments for tokovoip_script
+Started resource tokovoip_script
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[es_extended] [[32mINFO[0m] ESX developed by ESX-Org has been initialized
+[93mAuthenticating with Nucleus...[0m
+server thread hitch warning: timer interval of 894 milliseconds
+[32m[mysql-async] [SUCCESS][0m Database server connection established.
+[33m[MariaDB:10.4.14-MariaDB-1:10.4.14+maria~stretch] [WARNING][0m [esx_datastore] [876ms] SELECT * FROM datastore : []
+[33m[MariaDB:10.4.14-MariaDB-1:10.4.14+maria~stretch] [WARNING][0m [esx_addoninventory] [875ms] SELECT * FROM items : []
+[33m[MariaDB:10.4.14-MariaDB-1:10.4.14+maria~stretch] [WARNING][0m [esx_addonaccount] [874ms] SELECT * FROM addon_account : []
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://macmac56-349a88.users.cfx.re/
+Connecting: Martin[0m
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Rcon from [::ffff:178.33.46.93]:50249
+ quit

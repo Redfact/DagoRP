@@ -1,0 +1,755 @@
+Creating script environments for _cfx_internal
+Found new resource map in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//map
+Found new resource webadmin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource monitor in /home/ogp_agent/OGP_User_Files/Randria5585fivem/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[managers]/spawnmanager
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[managers]/mapmanager
+Found new resource mysql-async in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[libs]/mysql-async
+Found new resource async in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[libs]/async
+Found new resource fivem-mysql-async in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[libs]/fivem-mysql-async
+Found new resource mysql-async2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[libs]/mysql-async2
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/playernames
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/chat-theme-gtao
+Found new resource chat in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gameplay]/chat
+Found new resource gunrecoil in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/gunrecoil
+Found new resource mibata in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/mibata
+Found new resource basy in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/basy
+Found new resource mal in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/mal
+Found new resource course in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/course
+Found new resource basyreel in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/basyreel
+Found new resource esx_rpchat in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/esx_rpchat
+Found new resource esx_addons_gcphone2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/esx_addons_gcphone2
+Found new resource esx_garage in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/esx_garage
+Found new resource example-loadscreen in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/example-loadscreen
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/fivem
+Found new resource esx_boat in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[test]/esx_boat
+Found new resource liberty_nav in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/liberty_nav
+Resource loading for liberty_nav failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/liberty_nav/__resource.lua.
+Found new resource fuckgta in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/fuckgta
+Resource loading for fuckgta failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/fuckgta/__resource.lua.
+Found new resource EMS_Speedo in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/EMS_Speedo
+Found new resource trailersmall in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/trailersmall
+Found new resource Ford_Explorer_LSPD in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/Ford_Explorer_LSPD
+Found new resource FIB_Unmarked in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/FIB_Unmarked
+Found new resource polschafv2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/polschafv2
+Found new resource Comet in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/Comet
+Found new resource HondaCB800 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/HondaCB800
+Found new resource Ford-CVPI in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/Ford-CVPI
+Found new resource Zr380 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/Zr380
+Found new resource Dodge_Charger in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[remplace]/Dodge_Charger
+Found new resource instance in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/instance
+Found new resource es_extended in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/es_extended
+Found new resource cron in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[essential]/cron
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/sessionmanager
+Found new resource ELS in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/ELS
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/hardcap
+Found new resource sessionmanager-rdr3 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/sessionmanager-rdr3
+Found new resource mythic_notify in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/mythic_notify
+Found new resource progressBars in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/progressBars
+Found new resource handling_mod in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/handling_mod
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/scoreboard
+Found new resource runcode in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/runcode
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/rconlog
+Found new resource redm-map-one in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource indust_1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/[interiors]/indust_1
+Resource loading for indust_1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/[interiors]/indust_1/__resource.lua.
+Found new resource testplant in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/testplant
+Found new resource hypnonema in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/hypnonema
+Found new resource teleport in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/teleport
+Found new resource sezadaba in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/sezadaba
+Found new resource show-coords in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/show-coords
+Found new resource program-casino in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/program-casino
+Found new resource whistle in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/whistle
+Found new resource program-blackjack in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/program-blackjack
+Found new resource hypnonema-map in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/hypnonema-map
+Found new resource simpledrift in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/simpledrift
+Found new resource Seza_Fandrina in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/Seza_Fandrina
+Found new resource slotmachine_1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[non_esx]/slotmachine_1
+Found new resource esx_vehicleshop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_vehicleshop
+Found new resource esx_mechanicjob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_mechanicjob
+Found new resource esx_vehicleshop1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_vehicleshop1
+Found new resource esx_mechanicjob1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_mechanicjob1
+Found new resource esx_policejob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_policejob
+Found new resource esx_realestateagentjob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_realestateagentjob
+Found new resource esx_vehicleshop - Copie in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_vehicleshop - Copie
+Found new resource esx_tabacjob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_tabacjob
+Found new resource esx_ambulancejob(test) in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_ambulancejob(test)
+Found new resource esx_sheriffjob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_sheriffjob
+Found new resource esx_taxijob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_taxijob
+Found new resource esx_journaliste in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_journaliste
+Found new resource esx_ambulancejob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_ambulancejob
+Found new resource esx_vigneronjob in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_vigneronjob
+Found new resource esx_joblisting in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_joblisting
+Found new resource esx_jobs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_jobs
+Found new resource esx_drugs1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs1
+Resource loading for esx_drugs1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs1/__resource.lua.
+Found new resource utk_fleeca in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/utk_fleeca
+Found new resource utk_ornateprops in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/utk_ornateprops
+Found new resource esx_blanchisseur in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_blanchisseur
+Resource loading for esx_blanchisseur failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_blanchisseur/__resource.lua.
+Found new resource esx_npcdrugsales-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_npcdrugsales-master
+Resource loading for esx_npcdrugsales-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_npcdrugsales-master/__resource.lua.
+Found new resource esx_holdup in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_holdup
+Resource loading for esx_holdup failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_holdup/__resource.lua.
+Found new resource esx_drugs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs
+Resource loading for esx_drugs failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs/__resource.lua.
+Found new resource utk_ornateheist in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/utk_ornateheist
+Found new resource esx_vangelico_robbery in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_vangelico_robbery
+Found new resource esx_spectate in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_spectate
+Resource loading for esx_spectate failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_spectate/__resource.lua.
+Found new resource esx_doorlock in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_doorlock
+Resource loading for esx_doorlock failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_doorlock/__resource.lua.
+Found new resource esx_jb_trailer-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_jb_trailer-master
+Resource loading for esx_jb_trailer-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_jb_trailer-master/__resource.lua.
+Found new resource esx_outlawalert in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_outlawalert
+Resource loading for esx_outlawalert failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_outlawalert/__resource.lua.
+Found new resource esx_dangy in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_dangy
+Resource loading for esx_dangy failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_dangy/__resource.lua.
+Found new resource esx_CommunityService in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_CommunityService
+Resource loading for esx_CommunityService failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_CommunityService/__resource.lua.
+Found new resource esx_checkdeathcause in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_checkdeathcause
+Resource loading for esx_checkdeathcause failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_checkdeathcause/__resource.lua.
+Found new resource j17_courthouse in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/j17_courthouse
+Found new resource int_lodge in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/int_lodge
+Found new resource splitsides in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/splitsides
+Found new resource mpvinewood in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/mpvinewood
+Found new resource mpheist3 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/mpheist3
+Found new resource bahamas in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/bahamas
+Found new resource mecano in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/mecano
+Found new resource playboy in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/playboy
+Found new resource yellowjack in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/yellowjack
+Found new resource beachtrano in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/beachtrano
+Found new resource burgershot in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/burgershot
+Found new resource lsc in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/lsc
+Found new resource modernhouse in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/modernhouse
+Found new resource chinatown_bar in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/chinatown_bar
+Found new resource taco in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/taco
+Found new resource rallycross in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/rallycross
+Found new resource gangcenter in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/gangcenter
+Found new resource casino in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/casino
+Found new resource fastfood in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/fastfood
+Found new resource cardealer1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/cardealer1
+Found new resource brownprison in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/brownprison
+Found new resource juge in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/juge
+Found new resource police in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/police
+Found new resource vineyards in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/vineyards
+Found new resource int_genstore in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/int_genstore
+Found new resource methmapping in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/methmapping
+Found new resource taxi in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/taxi
+Found new resource int_motel in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/int_motel
+Found new resource motels in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/motels
+Found new resource vc in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/vc
+Resource loading for vc failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/vc/__resource.lua.
+Found new resource moto in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/moto
+Found new resource RebelRadio in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/RebelRadio
+Found new resource shopping in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/shopping
+Found new resource secretbiker in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/secretbiker
+Found new resource hopital in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/hopital
+Found new resource MappingGang in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/MappingGang
+Found new resource building in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/building
+Found new resource wedding in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/wedding
+Found new resource girlhair in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[vetements]/girlhair
+Found new resource EUP in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[vetements]/EUP
+Found new resource _vetements in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[vetements]/_vetements
+Found new resource esx_trunk in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_trunk
+Resource loading for esx_trunk failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_trunk/__resource.lua.
+Found new resource LegacyFuel in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/LegacyFuel
+Resource loading for LegacyFuel failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/LegacyFuel/__resource.lua.
+Found new resource esx_carwash in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carwash
+Resource loading for esx_carwash failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carwash/__resource.lua.
+Found new resource esx_carshowroom in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carshowroom
+Resource loading for esx_carshowroom failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carshowroom/__resource.lua.
+Found new resource ft_libs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/ft_libs
+Resource loading for ft_libs failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/ft_libs/__resource.lua.
+Found new resource esx_lscustom in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom
+Resource loading for esx_lscustom failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom/__resource.lua.
+Found new resource esx_vehiclelock in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_vehiclelock
+Resource loading for esx_vehiclelock failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_vehiclelock/__resource.lua.
+Found new resource esx_jb_radars in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_jb_radars
+Resource loading for esx_jb_radars failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_jb_radars/__resource.lua.
+Found new resource esx_eden_garage in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_eden_garage
+Resource loading for esx_eden_garage failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_eden_garage/__resource.lua.
+Found new resource esx_dmvschool in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_dmvschool
+Resource loading for esx_dmvschool failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_dmvschool/__resource.lua.
+Found new resource esx_lscustom1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom1
+Resource loading for esx_lscustom1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom1/__resource.lua.
+Found new resource esx_menu_dialog in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_dialog
+Found new resource esx_menu_list in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_list
+Found new resource esx_menu_default in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ui]/esx_menu_default
+Found new resource mythic_notify1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/mythic_notify1
+Found new resource tokovoip_script in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/tokovoip_script
+Found new resource ls-radio in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[tokovoip]/ls-radio
+Found new resource fivem-ipl in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ipl]/fivem-ipl
+Found new resource bob74_ipl in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ipl]/bob74_ipl
+Found new resource loadingscreen in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[menu]/loadingscreen
+Found new resource jsfour-idcard in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[menu]/jsfour-idcard
+Found new resource krz_personalmenu in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[menu]/krz_personalmenu
+Found new resource ultimate_skin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_skin
+Found new resource esx_mrw_annonces in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/esx_mrw_annonces
+Found new resource nNPC in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/nNPC
+Found new resource debug in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/debug
+Found new resource ultimate_illegal in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_illegal
+Found new resource ultimate_shop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_shop
+Found new resource ultimate_farming2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_farming2
+Found new resource ultimate_location in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_location
+Found new resource ultimate_market in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_market
+Found new resource showfps in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/showfps
+Found new resource mythic_progressbar in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/mythic_progressbar
+Found new resource RageUI in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/RageUI
+Found new resource ultimate_traitement in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_traitement
+Found new resource npcs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/npcs
+Found new resource ultimate_license in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_license
+Found new resource esx_announce in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/esx_announce
+Found new resource basyanim in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/basyanim
+Found new resource dpemotes in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/dpemotes
+Found new resource car_doors in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/car_doors
+Found new resource nopnj in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/nopnj
+Found new resource lockpick in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/lockpick
+Found new resource MenuExample in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/MenuExample
+Found new resource afkkick in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/afkkick
+Found new resource ultimate_coffre in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_coffre
+Found new resource ultimate_farming in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/ultimate_farming
+Found new resource esx_scoreboard1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard1
+Resource loading for esx_scoreboard1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard1/__resource.lua.
+Found new resource esx_inventoryhud_trunk1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk1
+Resource loading for esx_inventoryhud_trunk1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk1/__resource.lua.
+Found new resource esx_inventoryhud in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud
+Resource loading for esx_inventoryhud failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud/__resource.lua.
+Found new resource ESX-1.2-Inventory-HUD-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/ESX-1.2-Inventory-HUD-master
+Resource loading for ESX-1.2-Inventory-HUD-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/ESX-1.2-Inventory-HUD-master/__resource.lua.
+Found new resource b1g_notify in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/b1g_notify
+Resource loading for b1g_notify failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/b1g_notify/__resource.lua.
+Found new resource esx_inventoryhud_trunk in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk
+Resource loading for esx_inventoryhud_trunk failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk/__resource.lua.
+Found new resource esx_scoreboard in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard
+Resource loading for esx_scoreboard failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard/__resource.lua.
+Found new resource trew_hud_ui in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/trew_hud_ui
+Resource loading for trew_hud_ui failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/trew_hud_ui/__resource.lua.
+Found new resource esx_inventoryhud2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud2
+Resource loading for esx_inventoryhud2 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud2/__resource.lua.
+Found new resource pNotify in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/pNotify
+Resource loading for pNotify failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/pNotify/__resource.lua.
+Found new resource esx_shops in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_shops
+Found new resource esx_barbershop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_barbershop
+Found new resource esx_clip in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_clip
+Found new resource esx_accessories in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_accessories
+Found new resource esx_eden_clotheshop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_eden_clotheshop
+Found new resource eden_accesories in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/eden_accesories
+Found new resource esx_weaponshop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_weaponshop
+Found new resource esx_tattooshop in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_tattooshop
+Found new resource 99kr-shops in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/99kr-shops
+Found new resource esx_property in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[shop]/esx_property
+Found new resource DisablePauseMenu-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[Pause_Menu]/DisablePauseMenu-master
+Found new resource titre in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[Pause_Menu]/titre
+Found new resource pause in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[Pause_Menu]/pause
+Found new resource esx_identity in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_identity
+Resource loading for esx_identity failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_identity/__resource.lua.
+Found new resource esx_society in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_society
+Resource loading for esx_society failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_society/__resource.lua.
+Found new resource esx_status in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_status
+Resource loading for esx_status failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_status/__resource.lua.
+Found new resource new_banking in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/new_banking
+Resource loading for new_banking failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/new_banking/__resource.lua.
+Found new resource esx_billing in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_billing
+Resource loading for esx_billing failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_billing/__resource.lua.
+Found new resource esx_service in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_service
+Resource loading for esx_service failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_service/__resource.lua.
+Found new resource skinchanger in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/skinchanger
+Resource loading for skinchanger failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/skinchanger/__resource.lua.
+Found new resource esx_addonaccount in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addonaccount
+Resource loading for esx_addonaccount failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addonaccount/__resource.lua.
+Found new resource esx_datastore in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_datastore
+Resource loading for esx_datastore failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_datastore/__resource.lua.
+Found new resource esx_basicneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_basicneeds
+Resource loading for esx_basicneeds failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_basicneeds/__resource.lua.
+Found new resource esx_addoninventory in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addoninventory
+Resource loading for esx_addoninventory failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addoninventory/__resource.lua.
+Found new resource esx_license in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_license
+Resource loading for esx_license failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_license/__resource.lua.
+Found new resource esx_skin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_skin
+Resource loading for esx_skin failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_skin/__resource.lua.
+Found new resource esx_optionalneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_optionalneeds
+Resource loading for esx_optionalneeds failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_optionalneeds/__resource.lua.
+Found new resource yarn in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/[builders]/yarn
+Found new resource webpack in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[system]/[builders]/webpack
+Found new resource asa_burgershot in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/[job]/asa_burgershot
+Found new resource ult_security in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/[job]/ult_security
+Found new resource asa_amvv in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[ultima]/[job]/asa_amvv
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for monitor
+Started resource monitor
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Started resource handling_mod
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for async
+Started resource async
+Creating script environments for es_extended
+Started resource es_extended
+Creating script environments for cron
+Started resource cron
+Creating script environments for instance
+Started resource instance
+[93mCouldn't find resource gcphone.[0m
+Started resource esx_menu_default
+Started resource esx_menu_dialog
+Started resource esx_menu_list
+[93mCouldn't find resource skinchanger.[0m
+[93mCouldn't find resource esx_skin.[0m
+[93mCouldn't find resource esx_addonaccount.[0m
+[93mCouldn't find resource esx_addoninventory.[0m
+[93mCouldn't find resource esx_datastore.[0m
+[93mCouldn't find resource esx_license.[0m
+[93mCouldn't find resource esx_billing.[0m
+[93mCouldn't find resource esx_identity.[0m
+[93mCouldn't find resource esx_society.[0m
+[93mCouldn't find resource esx_service.[0m
+[93mCouldn't find resource esx_basicneeds.[0m
+[93mCouldn't find resource esx_optionalneeds.[0m
+[93mCouldn't find resource esx_status.[0m
+[93mCouldn't find resource new_banking.[0m
+[93mCouldn't find resource esx_jb_trailer-master.[0m
+[93mCouldn't find resource esx_CommunityService.[0m
+Started resource progressBars
+Started resource mythic_notify
+Creating script environments for ELS
+[91m[ELS-FiveM (ELS)] [32mSuccessfully loaded 4/23 VCF files![97m
+Started resource ELS
+[93mCouldn't find resource esx_holdup.[0m
+[93mCouldn't find resource esx_blanchisseur.[0m
+[93mCouldn't find resource esx_drugs.[0m
+[93mCouldn't find resource esx_drugs1.[0m
+Creating script environments for utk_fleeca
+Started resource utk_fleeca
+Creating script environments for utk_ornateheist
+Started resource utk_ornateheist
+[93mCould not make hard link for /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/utk_ornateprops/stream//ch_prop_diamond_trolly_01a.ydr <-> /home/ogp_agent/OGP_User_Files/Randria5585fivem/cache/files/utk_ornateprops/stream_cache/z06712b524b741abe1eb4922bfe554423b3d9e15c.[0m
+Started resource utk_ornateprops
+Could not find dependency esx_addonaccount for resource esx_property.
+[93mCouldn't start resource esx_property.[0m
+Could not find dependency esx_skin for resource esx_accessories.
+[93mCouldn't start resource esx_accessories.[0m
+Creating script environments for esx_eden_clotheshop
+Started resource esx_eden_clotheshop
+Could not find dependency esx_skin for resource esx_barbershop.
+[93mCouldn't start resource esx_barbershop.[0m
+Could not find dependency skinchanger for resource esx_tattooshop.
+[93mCouldn't start resource esx_tattooshop.[0m
+Creating script environments for 99kr-shops
+Started resource 99kr-shops
+Creating script environments for esx_weaponshop
+Started resource esx_weaponshop
+Creating script environments for esx_clip
+Started resource esx_clip
+Creating script environments for eden_accesories
+Started resource eden_accesories
+Creating script environments for esx_vehicleshop
+Started resource esx_vehicleshop
+Could not find dependency esx_billing for resource esx_policejob.
+[93mCouldn't start resource esx_policejob.[0m
+Could not find dependency esx_skin for resource esx_ambulancejob.
+[93mCouldn't start resource esx_ambulancejob.[0m
+Could not find dependency esx_society for resource esx_mechanicjob.
+[93mCouldn't start resource esx_mechanicjob.[0m
+Could not find dependency esx_society for resource esx_mechanicjob1.
+[93mCouldn't start resource esx_mechanicjob1.[0m
+Creating script environments for esx_taxijob
+Started resource esx_taxijob
+Creating script environments for esx_journaliste
+Started resource esx_journaliste
+Could not find dependency esx_addonaccount for resource esx_property.
+Could not start dependency esx_property for resource esx_realestateagentjob.
+[93mCouldn't start resource esx_realestateagentjob.[0m
+Could not find dependency esx_billing for resource ult_security.
+[93mCouldn't start resource ult_security.[0m
+Could not find dependency esx_society for resource asa_burgershot.
+[93mCouldn't start resource asa_burgershot.[0m
+Could not find dependency esx_society for resource asa_amvv.
+[93mCouldn't start resource asa_amvv.[0m
+[93mCouldn't find resource esx_vehiclelock.[0m
+[93mCouldn't find resource ft_libs.[0m
+[93mCouldn't find resource esx_eden_garage.[0m
+[93mCouldn't find resource esx_carwash.[0m
+[93mCouldn't find resource esx_lscustom.[0m
+[93mCouldn't find resource esx_lscustom1.[0m
+[93mCouldn't find resource LegacyFuel.[0m
+[93mCouldn't find resource esx_jb_radars.[0m
+[93mCouldn't find resource esx_trunk.[0m
+[93mCouldn't find resource esx_dmvschool.[0m
+[93mCouldn't find resource RealisticVehicleFailure.[0m
+[93mCouldn't find resource esx_snippet.[0m
+[93mCouldn't find resource esx_doorlock.[0m
+[93mCouldn't find resource esx_checkdeathcause.[0m
+[93mCouldn't find resource esx_dangy.[0m
+[93mCouldn't find resource esx_spectate.[0m
+[93mCouldn't find resource esx_syncAndro.[0m
+[93mCouldn't find resource esx_outlawalert.[0m
+Creating script environments for Seza_Fandrina
+Started resource Seza_Fandrina
+Started resource simpledrift
+Creating script environments for whistle
+Started resource whistle
+Started resource teleport
+Started resource pause
+[93mCouldn't find resource trew_hud_ui.[0m
+[93mCouldn't find resource esx_scoreboard.[0m
+[93mCouldn't find resource b1g_notify.[0m
+[93mCouldn't find resource esx_inventoryhud.[0m
+Started resource loadingscreen
+Creating script environments for jsfour-idcard
+Started resource jsfour-idcard
+Creating script environments for krz_personalmenu
+Started resource krz_personalmenu
+Creating script environments for esx_mrw_annonces
+Started resource esx_mrw_annonces
+Creating script environments for esx_announce
+Started resource esx_announce
+Started resource basyanim
+Started resource car_doors
+Creating script environments for dpemotes
+[dp] [93mSql Keybinding[0m is turned [91moff[0m, if you want to enable /emotebind, import dpkeybinding.sql and set [93mSqlKeybinding = [32mtrue[0m in config.lua.
+Started resource dpemotes
+Creating script environments for ultimate_farming
+Started resource ultimate_farming
+Creating script environments for ultimate_market
+Started resource ultimate_market
+Creating script environments for ultimate_shop
+Started resource ultimate_shop
+Creating script environments for ultimate_traitement
+Started resource ultimate_traitement
+Could not find dependency esx_billing for resource ultimate_illegal.
+[93mCouldn't start resource ultimate_illegal.[0m
+Creating script environments for ultimate_license
+Started resource ultimate_license
+Creating script environments for ultimate_location
+Started resource ultimate_location
+Started resource nopnj
+Started resource showfps
+Creating script environments for esx_vangelico_robbery
+Started resource esx_vangelico_robbery
+Started resource npcs
+Could not find dependency esx_society for resource ultimate_coffre.
+[93mCouldn't start resource ultimate_coffre.[0m
+Started resource mal
+Creating script environments for mibata
+Started resource mibata
+Started resource basy
+Started resource basyreel
+Started resource gunrecoil
+Creating script environments for course
+Started resource course
+Creating script environments for ls-radio
+Started resource ls-radio
+Creating script environments for tokovoip_script
+Started resource tokovoip_script
+Started resource bob74_ipl
+Started resource fivem-ipl
+[94mAsset hopital/gabz_pillbox_textures_01.ytd uses 22.5 MiB of physical memory.[0m
+Started resource hopital
+Started resource police
+[94mAsset vineyards/italy_texture.ytd uses 16.6 MiB of physical memory.[0m
+Started resource vineyards
+Started resource burgershot
+Started resource bahamas
+[94mAsset MappingGang/phxballas_interior_textures.ytd uses 20.0 MiB of physical memory.[0m
+Started resource MappingGang
+[94mAsset playboy/int_mafshell.ydr uses 18.5 MiB of physical memory.[0m
+Started resource playboy
+Started resource chinatown_bar
+Started resource splitsides
+Started resource lsc
+[94mAsset modernhouse/modernhouse1.ytd uses 23.5 MiB of physical memory.[0m
+Started resource modernhouse
+Started resource beachtrano
+Started resource int_genstore
+Started resource int_lodge
+Started resource int_motel
+Started resource yellowjack
+Started resource RebelRadio
+Started resource brownprison
+Started resource gangcenter
+Started resource motels
+Started resource secretbiker
+Started resource taxi
+Started resource shopping
+Started resource fastfood
+Started resource building
+Started resource juge
+Started resource mecano
+Started resource moto
+Started resource mpvinewood
+Started resource mpheist3
+[91mAsset Dodge_Charger/police2.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+Started resource Dodge_Charger
+Started resource Ford-CVPI
+Started resource Ford_Explorer_LSPD
+[94mAsset FIB_Unmarked/fbi.yft uses 18.6 MiB of virtual memory.[0m
+[91mAsset FIB_Unmarked/fbi.ytd uses 66.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset FIB_Unmarked/fbi2.ytd uses 58.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset FIB_Unmarked/fbi_hi.yft uses 18.6 MiB of virtual memory.[0m
+[94mAsset FIB_Unmarked/police4.yft uses 17.6 MiB of virtual memory.[0m
+[91mAsset FIB_Unmarked/police4.ytd uses 70.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset FIB_Unmarked/police4_hi.yft uses 17.6 MiB of virtual memory.[0m
+Started resource FIB_Unmarked
+Started resource Zr380
+Started resource Comet
+Started resource polschafv2
+[94mAsset EMS_Speedo/emsnspeedo.ytd uses 32.0 MiB of physical memory.[0m
+Started resource EMS_Speedo
+Started resource HondaCB800
+Started resource trailersmall
+[94mAsset _vetements/mp_m_freemode_01_mp_m_gunrunning_01^jbib_005_u.ydd uses 32.0 MiB of physical memory.[0m
+Started resource _vetements
+[94mAsset girlhair/mp_f_freemode_01_mp_f_lilaandjane^hair_005_u.ydd uses 32.0 MiB of physical memory.[0m
+Started resource girlhair
+Started resource EUP
+Authenticating server license key...
+cfx> [es_extended] [[32mINFO[0m] ESX developed by ESX-Org has been initialized
+[32m[mysql-async] [SUCCESS][0m Database server connection established.
+Server license key authentication succeeded. Welcome!
+[93mAuthenticating with Nucleus...[0m
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://macmac56-349a88.users.cfx.re/
+Connecting: Dima Polo[0m
+[es_extended] [[32mINFO[0m] A player with name "Dima Polo[0m" has connected to the server with assigned player id 1
+Connecting: Martin[0m
+[es_extended] [[32mINFO[0m] A player with name "Martin[0m" has connected to the server with assigned player id 2
+Found new resource liberty_nav in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/liberty_nav
+Resource loading for liberty_nav failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/liberty_nav/__resource.lua.
+Found new resource fuckgta in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/fuckgta
+Resource loading for fuckgta failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/fuckgta/__resource.lua.
+Found new resource indust_1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/[interiors]/indust_1
+Resource loading for indust_1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[liberty]/[interiors]/indust_1/__resource.lua.
+Found new resource gcphone in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[gcphone]/gcphone
+Found new resource esx_vehicleshop - Copie in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[jobs]/esx_vehicleshop - Copie
+Found new resource esx_drugs1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs1
+Resource loading for esx_drugs1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs1/__resource.lua.
+Found new resource esx_blanchisseur in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_blanchisseur
+Resource loading for esx_blanchisseur failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_blanchisseur/__resource.lua.
+Found new resource esx_npcdrugsales-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_npcdrugsales-master
+Resource loading for esx_npcdrugsales-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_npcdrugsales-master/__resource.lua.
+Found new resource esx_holdup in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_holdup
+Resource loading for esx_holdup failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_holdup/__resource.lua.
+Found new resource esx_drugs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs
+Resource loading for esx_drugs failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[illegal]/esx_drugs/__resource.lua.
+Found new resource esx_spectate in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_spectate
+Resource loading for esx_spectate failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_spectate/__resource.lua.
+Found new resource esx_doorlock in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_doorlock
+Resource loading for esx_doorlock failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_doorlock/__resource.lua.
+Found new resource esx_jb_trailer-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_jb_trailer-master
+Resource loading for esx_jb_trailer-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_jb_trailer-master/__resource.lua.
+Found new resource esx_outlawalert in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_outlawalert
+Resource loading for esx_outlawalert failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_outlawalert/__resource.lua.
+Found new resource esx_dangy in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_dangy
+Resource loading for esx_dangy failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_dangy/__resource.lua.
+Found new resource esx_CommunityService in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_CommunityService
+Resource loading for esx_CommunityService failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_CommunityService/__resource.lua.
+Found new resource esx_checkdeathcause in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_checkdeathcause
+Resource loading for esx_checkdeathcause failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[esx]/esx_checkdeathcause/__resource.lua.
+Found new resource vc in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/vc
+Resource loading for vc failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[mapping]/vc/__resource.lua.
+Found new resource esx_trunk in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_trunk
+Resource loading for esx_trunk failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_trunk/__resource.lua.
+Found new resource LegacyFuel in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/LegacyFuel
+Resource loading for LegacyFuel failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/LegacyFuel/__resource.lua.
+Found new resource esx_carwash in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carwash
+Resource loading for esx_carwash failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carwash/__resource.lua.
+Found new resource esx_carshowroom in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carshowroom
+Resource loading for esx_carshowroom failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_carshowroom/__resource.lua.
+Found new resource ft_libs in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/ft_libs
+Resource loading for ft_libs failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/ft_libs/__resource.lua.
+Found new resource esx_lscustom in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom
+Resource loading for esx_lscustom failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom/__resource.lua.
+Found new resource esx_vehiclelock in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_vehiclelock
+Resource loading for esx_vehiclelock failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_vehiclelock/__resource.lua.
+Found new resource esx_jb_radars in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_jb_radars
+Resource loading for esx_jb_radars failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_jb_radars/__resource.lua.
+Found new resource esx_eden_garage in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_eden_garage
+Resource loading for esx_eden_garage failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_eden_garage/__resource.lua.
+Found new resource esx_dmvschool in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_dmvschool
+Resource loading for esx_dmvschool failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_dmvschool/__resource.lua.
+Found new resource esx_lscustom1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom1
+Resource loading for esx_lscustom1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[car]/esx_lscustom1/__resource.lua.
+Found new resource esx_scoreboard1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard1
+Resource loading for esx_scoreboard1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard1/__resource.lua.
+Found new resource esx_inventoryhud_trunk1 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk1
+Resource loading for esx_inventoryhud_trunk1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk1/__resource.lua.
+Found new resource esx_inventoryhud in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud
+Resource loading for esx_inventoryhud failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud/__resource.lua.
+Found new resource ESX-1.2-Inventory-HUD-master in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/ESX-1.2-Inventory-HUD-master
+Resource loading for ESX-1.2-Inventory-HUD-master failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/ESX-1.2-Inventory-HUD-master/__resource.lua.
+Found new resource b1g_notify in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/b1g_notify
+Resource loading for b1g_notify failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/b1g_notify/__resource.lua.
+Found new resource esx_inventoryhud_trunk in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk
+Resource loading for esx_inventoryhud_trunk failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud_trunk/__resource.lua.
+Found new resource esx_scoreboard in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard
+Resource loading for esx_scoreboard failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_scoreboard/__resource.lua.
+Found new resource trew_hud_ui in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/trew_hud_ui
+Resource loading for trew_hud_ui failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/trew_hud_ui/__resource.lua.
+Found new resource esx_inventoryhud2 in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud2
+Resource loading for esx_inventoryhud2 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/esx_inventoryhud2/__resource.lua.
+Found new resource pNotify in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/pNotify
+Resource loading for pNotify failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[hud]/pNotify/__resource.lua.
+Found new resource esx_identity in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_identity
+Resource loading for esx_identity failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_identity/__resource.lua.
+Found new resource esx_society in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_society
+Resource loading for esx_society failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_society/__resource.lua.
+Found new resource esx_status in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_status
+Resource loading for esx_status failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_status/__resource.lua.
+Found new resource new_banking in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/new_banking
+Resource loading for new_banking failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/new_banking/__resource.lua.
+Found new resource esx_billing in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_billing
+Resource loading for esx_billing failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_billing/__resource.lua.
+Found new resource esx_service in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_service
+Resource loading for esx_service failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_service/__resource.lua.
+Found new resource skinchanger in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/skinchanger
+Resource loading for skinchanger failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/skinchanger/__resource.lua.
+Found new resource esx_addonaccount in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addonaccount
+Resource loading for esx_addonaccount failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addonaccount/__resource.lua.
+Found new resource esx_datastore in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_datastore
+Resource loading for esx_datastore failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_datastore/__resource.lua.
+Found new resource esx_basicneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_basicneeds
+Resource loading for esx_basicneeds failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_basicneeds/__resource.lua.
+Found new resource esx_addoninventory in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addoninventory
+Resource loading for esx_addoninventory failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_addoninventory/__resource.lua.
+Found new resource esx_license in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_license
+Resource loading for esx_license failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_license/__resource.lua.
+Found new resource esx_skin in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_skin
+Resource loading for esx_skin failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_skin/__resource.lua.
+Found new resource esx_optionalneeds in /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_optionalneeds
+Resource loading for esx_optionalneeds failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/Randria5585fivem/resources//[server]/[base]/esx_optionalneeds/__resource.lua.
+Creating script environments for gcphone
+Started resource gcphone
+Stopping resource gcphone
+Creating script environments for gcphone
+Started resource gcphone
+Stopping resource gcphone
+Creating script environments for gcphone
+Started resource gcphone
+Stopping resource showfps
+Started resource showfps
+Stopping resource showfps
+Stopping resource gcphone
+Creating script environments for gcphone
+Started resource gcphone
+[es_extended] [[32mINFO[0m] Saved player "Martin[0m"
+[31m[MariaDB:10.4.14-MariaDB-1:10.4.14+maria~stretch] [ERROR][0m [gcphone] An error happens for query "SELECT users.phone_number FROM users WHERE users.identifier = ? : ["steam:110000105bc131c"]": ER_NO_SUCH_TABLE: Table 'Randria5585fivem.users' doesn't exist
+[91mSCRIPT ERROR: @gcphone/server/server.lua:87: attempt to index a nil value (local 'result')[0m
+[93m> handler[0m ([36m@gcphone/server/server.lua[0m:593)
+[31m[MariaDB:10.4.14-MariaDB-1:10.4.14+maria~stretch] [ERROR][0m [es_extended] An error happens for query "UPDATE users SET accounts = ?, job = ?, job_grade = ?, `group` = ?, loadout = ?, position = ?, inventory = ? WHERE identifier = ? : ["{\"bank\":317476600,\"money\":175531,\"black_money\":0}","mechanic",3,"superadmin","{\"WEAPON_STUNGUN\":{\"ammo\":42}}","{\"y\":1074.6,\"z\":20.6,\"heading\":352.1,\"x\":-3140.9}","{\"gant_cuir\":1,\"phone\":1}","steam:110000105bc131c"]": ER_NO_SUCH_TABLE: Table 'Randria5585fivem.users' doesn't exist
+[es_extended] [[32mINFO[0m] Saved player "Dima Polo[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Rcon from [::ffff:178.33.46.93]:56607
+ quit
