@@ -1,0 +1,94 @@
+
+
+set mysql_connection_string "server=151.80.111.57;database=Randria5585fivem;userid=Randria5585fivem;password=DzjyMN9LMiR6r0P7;port=3306"
+set es_enableCustomData 1
+
+######################################################################################
+add_principal group.superadmin group.admin group.user
+add_ace resource.es_extended command.add_ace allow
+add_ace resource.es_extended command.add_principal allow
+add_ace resource.es_extended command.remove_principal allow
+add_ace resource.es_extended command.stop allow
+######################################################################################
+
+##########################################################
+#default
+#start mapmanager
+#start chat
+#start spawnmanager
+start sessionmanager
+#start fivem
+start hardcap
+start rconlog
+start scoreboard
+#start playernames
+
+#ESSENTIAL
+ensure mysql-async
+ensure es_extended
+
+#ui
+ensure esx_menu_default
+ensure esx_menu_dialog
+ensure esx_menu_list
+
+#BASE 
+ensure cron
+ensure skinchanger
+ensure esx_skin
+ensure esx_addonaccount
+ensure esx_addoninventory
+ensure esx_datastore
+ensure esx_license
+ensure esx_billing
+ensure esx_identity
+ensure esx_society
+ensure esx_service
+ensure esx_basicneeds
+ensure esx_optionalneeds
+ensure esx_status
+ensure new_banking
+
+#JOBS
+ensure esx_vehicleshop
+ensure esx_policejob
+ensure esx_ambulancejob
+ensure esx_mechanicjob
+ensure esx_mechanicjob1
+ensure esx_journaliste
+
+#gcphone/tokovoip
+ensure gcphone
+ensure ls-radio
+ensure tokovoip_script
+
+#hud
+ensure trew_hud_ui
+ensure esx_scoreboard
+ensure b1g_notify
+ensure esx_inventoryhud
+
+##################################################
+sv_scriptHookAllowed 1
+#load_server_icon myLogo.png
+# set temp_convar "hey world!"
+#sv_master1 ""
+#sv_authMaxVariance 1
+#sv_authMinTrust 5
+
+# add system admins
+add_ace group.admin command allow # allow all commands
+add_ace group.admin command.quit deny # but don't allow quit
+add_principal identifier.steam:11000011ae19508 group.admin # add the admin to the group
+
+sv_endpointprivacy true
+
+
+sv_hostname "DagoRP"
+rcon_password "XlLkF4VbWWrg8Mu3"
+sv_maxclients 45
+endpoint_add_tcp "178.33.46.93:32705"
+endpoint_add_udp "178.33.46.93:32705"
+set sv_listingIPOverride "178.33.46.93"
+sv_licenseKey rflnra9ya3egjr4z710umkoheli4rwmc
+set steam_webApiKey   DF905474CAA4D0D0EFA44AE065F1EBF5
